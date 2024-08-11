@@ -1,0 +1,8 @@
+- my-website/
+  - index.html
+  - styles/
+    - main.css
+  - scripts/
+    - main.js
+  - images/
+  - README.md
